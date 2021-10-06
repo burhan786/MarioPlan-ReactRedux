@@ -1,0 +1,1 @@
+This react app is made with react communicating with firebase database.
